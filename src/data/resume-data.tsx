@@ -70,7 +70,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: null,
       description:
-        "Desarrollo de aplicativos web modulares realizadas para la virtuañización de procesos internos de la empresa y soporte técnico nivel 2 dirigido a los prodcuto y procesos internos.",
+        "Desarrollo de aplicativos web modulares realizadas para la virtualización de procesos internos de la empresa y soporte técnico nivel 2 dirigidos a los productos y procesos internos.",
     },
   ],
   skills: [
